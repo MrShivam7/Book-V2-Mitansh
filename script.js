@@ -1,6 +1,6 @@
 var i = 0;
 var txt1 =
-  "Mana hamari manzile alag thi, Par tumhara itni jaldi mujhse alag hona zaroori tha kya? < Tumse milke har pal mai sukoon milta tha, Par iss sukoon ka itni jaldi chhin jana zaroori tha kya? < Mana humne kuch hi pal sath mai bitaaye, Par unn pal ka itni jaldi beet jana zaroori tha kya? < Agar tumhe jana hi tha, Toh humara milna zaroori tha kya? < Mana mai tumhari kahani ka vo kirdaar hu jise bhul jana aasan hai, Par tumhara zikr meri kitaab ke har panne pe zaroori tha kya? < Palak jhapakte hi hum alag ho gaye, Magar palak jhapkana zaroori tha kya?";
+  "Mana hamari manzile alag thi, Par tumhara itni jaldi mujhse alag hona zaroori tha kya? < Tumse milke har pal mai sukoon milta tha, Par iss sukoon ka itni jaldi chhin jana zaroori tha kya? < Mana humne kuch hi pal sath mai bitaaye, Par unn pal ka itni jaldi beet jana zaroori tha kya? < Agar tumhe jana hi tha, Toh humara milna zaroori tha kya? < Mana mai tumhari kahani ka vo kirdaar hu jise bhul jana aasan hai, Par tumhara zikr meri kitaab ke har panne pe zaroori tha kya? < Palak jhapakte hi hum alag ho gaye, Magar palak jhapkana zaroori tha kya? < Still Waiting......";
 var speed = 55;
 typeWriter();
 function typeWriter() {
