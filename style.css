@@ -6,7 +6,11 @@ body {
     background: #000;
   }
   
-  
+  .i {
+    color: rgb(52, 114, 185);
+    text-align: center;
+    
+  }
   .container {
     max-width: 1000px;
     margin: 100px auto;
@@ -113,4 +117,6 @@ body {
   .logo {
     display: flex;
     justify-content: flex-end;
+    position: relative;
+    bottom: 47px;
   }
